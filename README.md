@@ -6,3 +6,5 @@ npm start
 ```
 
 For Faster Access: <a href="https://raw-counter.netlify.app/"> Website
+
+- Special thanks to the Scrimba team
